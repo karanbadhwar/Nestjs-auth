@@ -1,8 +1,8 @@
-#Next.js based Authentication
+# Next.js based Authentication
 
 An app to understand the functioning of Next.js for an Fullstack app
 
-#Tech Stack
+# Tech Stack
 
 Next.js
 Typescript
